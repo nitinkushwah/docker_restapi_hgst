@@ -1,0 +1,3 @@
+Either you can use Dockerfile or pull my customer image from docker hub as :
+
+docker pull abhi4u/hgst_redfish_report:1.7
