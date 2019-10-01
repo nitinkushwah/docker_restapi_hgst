@@ -11,4 +11,4 @@ WORKDIR /usr/src/app
 COPY . .
 
 RUN pip3 install requests
-ENTRYPOINT [ "python3", "./hello.py" 
+ENTRYPOINT [ "python3", "./hello.py" ]
